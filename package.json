@@ -1,0 +1,49 @@
+{
+  "name": "startup-builder",
+  "version": "1.0.0",
+  "description": "From idea to successful launch 🦄🚀.",
+  "keywords": [
+    "app",
+    "business",
+    "entrepreneur",
+    "entrepreneurship",
+    "react",
+    "reactjs",
+    "startup",
+    "startups"
+  ],
+  "main": "src/index.tsx",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "scripts": {
+    "clean": "rimraf build/*",
+    "start": "react-scripts start",
+    "prebuild": "npm run clean",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "react": "16.8.6",
+    "react-beautiful-dnd": "11.0.3",
+    "react-dom": "16.8.6",
+    "react-router-dom": "5.0.0",
+    "react-scripts": "3.0.1",
+    "react-to-print": "2.1.2"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^6.1.1",
+    "@types/react": "16.8.17",
+    "@types/react-beautiful-dnd": "11.0.2",
+    "@types/react-dom": "16.8.4",
+    "@types/react-router-dom": "4.3.3",
+    "@types/rimraf": "^2.0.2",
+    "rimraf": "^2.6.3",
+    "typescript": "3.4.5"
+  }
+}
