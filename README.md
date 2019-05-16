@@ -1,5 +1,7 @@
 # Startup Builder
 
+<a target="_blank" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Falexdevero%2Fstartup-builder&text=Build%20your%20startup%20the%20right%20way%20with%20awesome%20StartupBuilder!%20%23startup%20%23startups" rel="noopener"><img src="https://badgen.net/badge/twitter/share?icon=twitter&label" /></a>
+
 From idea to successful launch 🦄🚀.
 
 ### `npm install` or `yarn`
