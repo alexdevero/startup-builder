@@ -28,13 +28,13 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
-    "dotenv": "^8.0.0",
+    "dotenv": "^8.2.0",
     "react": "16.8.6",
     "react-beautiful-dnd": "11.0.3",
     "react-dom": "16.8.6",
     "react-router-dom": "5.0.0",
     "react-scripts": "3.0.1",
-    "react-to-print": "2.1.2",
+    "react-to-print": "2.5.0",
     "styled-components": "^4.2.0"
   },
   "devDependencies": {
@@ -45,7 +45,7 @@
     "@types/react-router-dom": "4.3.3",
     "@types/rimraf": "^2.0.2",
     "@types/styled-components": "^4.1.15",
-    "rimraf": "^2.6.3",
+    "rimraf": "^3.0.0",
     "typescript": "3.4.5"
   }
 }
